@@ -1,0 +1,23 @@
+/* add your CSS here */
+
+.container { width:304px;
+padding:10px;
+border:2px lightgray solid;
+box-shadow: 7px 7px rgb(220,220,220);
+}
+
+.italic { font-style:italic;
+}
+
+ul { list-style: none;
+  padding-left: 0;
+}
+
+li span { font-weight:bold;
+}
+
+.box { width:280px;
+border:2px lightgray solid;
+padding:10px;
+margin-top:10px;
+}
